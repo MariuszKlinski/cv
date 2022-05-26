@@ -1,0 +1,30 @@
+body {
+  background-color: #F6EABE;
+}
+hr {
+  background-color: #F6EABE;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  height: 1px;
+  width: 10%;
+  border-width: 10px;
+}
+h1, h3 {
+  color: #66BFBF;
+  margin-bottom: 0;
+}
+
+/* IDs definitions */
+#Certificate {
+  color: grey;
+  margin-top: 0;
+  font-size: 10px;
+}
+/* Class definitions */
+.cv {
+  font-family: 'Book Antiqua', arial;
+  font-size: 14px;
+  font-variant: small-caps;
+  /* text-shadow: 4px 4px 4px #aaa; */
+}
